@@ -1,2 +1,11 @@
 # Игнорировать все файлы с расширением .doc
 *.doc 
+
+# Environments
+.env
+.venv1
+env/
+venv1/
+ENV/
+env.bak/
+venv.bak/
